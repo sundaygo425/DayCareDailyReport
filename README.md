@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [How to install](#how-to-install)  
+- [How to install](#how-to-install)
 - [Usage](#usage)
 - [Technologies](#technologies)
 
@@ -51,6 +51,26 @@ This application simplifies the task of tracking and recording infants' activiti
 - CSV Module: Utilized to handle data storage and retrieval in CSV files.
 - Tabulate Library: Used for formatting data into easy-to-read tabular form.
 - Time Module: Used for obtaining the current date.
+
+## Future Improvments
+This application has not been completed yet! I would like to do the following improvements:
+- Add functionality to allow teachers to update or delete existing records to maintain accurate information.
+- Include more activities, such as playtime and learning activities(for toddlers).
+- Improve error handling and data validation to prevent incorrect data entry.
+- Add user authentication to improve the data privacy.
+- Add user-friendly interface.
+
+## Contributing
+Contributions to the Daycare Daily Report are welcome and appreciated! If you found any bug or would like to summit an improvement for this application, please feel free to fork the repository and submit a pull request with your changes. Your contrbution is valuable and may help improve the application.
+
+## Contact Information
+If you have any questions, feel free to contact the application maintainer at [haojinads@gmail.com].
+
+## License
+This project is licensed under the MIT License.
+
+
+
 
 
 
