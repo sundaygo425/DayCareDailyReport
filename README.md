@@ -7,6 +7,10 @@
 - [How to install](#how-to-install)
 - [Usage](#usage)
 - [Technologies](#technologies)
+- [Future Improvments](#future-improvments)
+- [Contributing](#contributing)
+- [Contact Information](#contact-information)
+- [License](#license)
 
 ## Description
 This application simplifies the task of tracking and recording infants' activities for daycare teachers responsible for caring for multiple babies. As a busy parent myself, I understand the importance of efficiently record my baby's routine. This application streamlines the process, allowing users to effortlessly log each baby's activities throughout the day and generate a concise daily report summarizing the recorded activities.
